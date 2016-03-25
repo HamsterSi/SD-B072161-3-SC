@@ -6,11 +6,13 @@ Two packages are required for the new code version: itertools, random
 
 
 To run the game:
+```sh
     $ ./game
+```
 
 
 Python files:
-
+```sh
     main.py         This is the entrance of the card game
 
     card_Game.py    This defines some functions for game playing
@@ -20,3 +22,4 @@ Python files:
     player.py	    This defines the Player class
 
     central_Area.py This defines the Central class to manage the central cards
+```
