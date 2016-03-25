@@ -1,9 +1,13 @@
+## Software Devlopment Coursework 3
 This is the modified code version of the deck building card game for coursework 3 of Software Development.
 
+The Python code is developed by Python 2.7. 
+Two packages are required for the new code version: itertools, random.
 
-The Python code is written in Python 2.7. 
-Two packages are required for the new code version: itertools, random
-
+To clone the repository to local computer:
+```sh
+    git clone https://github.com/HamsterSi/SD-B072161-3-SC.git
+```
 
 To run the game:
 ```sh
@@ -11,7 +15,7 @@ To run the game:
 ```
 
 
-Python files:
+Python files in src:
 ```sh
     main.py         This is the entrance of the card game
 
